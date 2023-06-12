@@ -9,16 +9,25 @@ h1 {
   color: rgba(255, 0, 0, 0.774);
 }
 .p {
-  color: paleturquoise;
+  color: purple;
 }
 .u {
   color: royalblue;
 }
 .font {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border: 3px solid blue;
+  height: auto;
+  width: fit-content;
+  padding: 5px;
+  margin: auto;
+  border-radius: 10%;
 }
 dt {
   font-style: oblique;
   font-weight: bold;
   text-decoration: underline;
+}
+.button:hover {
+  background-color: gray;
 }
