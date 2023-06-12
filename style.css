@@ -1,0 +1,24 @@
+* {
+  background-color: rgba(250, 235, 215, 0.637);
+  text-align: center;
+}
+h1 {
+  color: rgb(0, 0, 0, 0.75);
+}
+.red {
+  color: rgba(255, 0, 0, 0.774);
+}
+.p {
+  color: paleturquoise;
+}
+.u {
+  color: royalblue;
+}
+.font {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+dt {
+  font-style: oblique;
+  font-weight: bold;
+  text-decoration: underline;
+}
