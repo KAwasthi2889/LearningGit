@@ -12,11 +12,11 @@ h1 {
   color: purple;
 }
 .u {
-  color: royalblue;
+  color: rgba(190, 19, 206, 0.932);
 }
 .font {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  border: 3px solid blue;
+  border: 3px solid orangered;
   height: auto;
   width: fit-content;
   padding: 5px;
